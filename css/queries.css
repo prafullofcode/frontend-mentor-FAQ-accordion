@@ -1,0 +1,9 @@
+@media only screen and (max-width: 400px) {
+  .box {
+    padding: 3rem 2rem;
+  }
+
+  .hero-text {
+    font-size: 3rem;
+  }
+}
